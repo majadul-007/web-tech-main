@@ -1,0 +1,36 @@
+.main-part{
+    width: 1000px;
+    margin: 0 auto;
+    /* border: 5px solid mediumspringgreen; */
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.main-part img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h1{
+    color: #D26237;
+    text-align: center;
+}
+h3{
+    color: #D26237;
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+}
+hr{
+    /* color: #98CBE0; */
+    height: 2px;
+    background-color: #98CBE0;
+}
+.footer{
+    text-align: center;
+}
+.frm{
+    font-size: 18px;
+}
