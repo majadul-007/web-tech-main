@@ -1,0 +1,29 @@
+.full-wrapper{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid red; */
+}
+.container-wrapper{
+    width: 900px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logo{
+    display: inline-block;
+}
+.nav-links{
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+}
+
+.nav-links ul{
+    display: flex;
+}
+ul li{
+    margin-right: 20px;
+
+}
