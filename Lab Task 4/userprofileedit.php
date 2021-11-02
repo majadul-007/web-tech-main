@@ -45,14 +45,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <form method="post" action="<?php echo $_SERVER['PHP_SELF'] ; ?>">
         <legend>PROFILE</legend>
         <?php
-        // echo "<h3>". "Name: " . $_SESSION['name'] . "</h3>";
-        // echo "<hr>" ;
-        // echo "<h3>". "Email: " . $_SESSION['email'] . "</h3>";
-        // echo "<hr>" ;
-        // echo "<h3>". "UserName: " . $_SESSION['user'] . "</h3>";
-        // echo "<hr>" ;
-        // echo "<h3>". "Gender: " . $_SESSION['gender'] . "</h3>";
-        // echo "<hr>" ;
+        
 
        ?>
         <Label>Name: </Label>

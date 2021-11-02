@@ -29,11 +29,7 @@ else{
 
 		<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
 			<fieldset>
-				<?php
-				session_start();
-				echo "<h2>Welcome Mr. ". $_SESSION['user'] . ".</h2>"; 
-
-				?>
+				
 
 				<legend>LOGIN</legend>
 				Username: 
