@@ -183,8 +183,8 @@ function test_input($data)
 
 
 			<legend>GENDER</legend>
-			<input type="radio" name="gender" value="female">Female
-			<input type="radio" name="gender" value="male">Male
+			<input type="radio" name="gender" value="Male">Female
+			<input type="radio" name="gender" value="Female">Male
 			<input type="radio" name="gender" value="other">Other
 			<span class="err">*
 				<?php echo $genderErr; ?>
