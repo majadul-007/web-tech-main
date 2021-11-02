@@ -2,7 +2,7 @@
 
  <div>
 
-     <?php include("welcome.php") ?>
+     <?php include("mainwelcome.php") ?>
      <div class="profile-part">
 
      <div class="profile-info">

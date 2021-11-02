@@ -1,5 +1,5 @@
 
-<?php include("welcome.php");
+<?php include("mainwelcome.php");
 $passErr = "";
 $pass = $retypePassword = "";
 
