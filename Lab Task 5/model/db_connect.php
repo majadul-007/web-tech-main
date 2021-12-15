@@ -3,7 +3,7 @@ function db_conn()
 {
     $servername = "localhost";
     $username = "root";
-    $password = "";
+    $password = ""; 
     $dbname = "student";
 
     try {
